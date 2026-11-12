@@ -1,0 +1,13 @@
+{
+  "name": "stored-xss-lab",
+  "version": "1.0.0",
+  "description": "Stored XSS demo (vulnerable vs secure). For educational use on localhost only.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "listener": "node listener.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
