@@ -3,7 +3,7 @@
 ## Ownership (Table 3)
 | Member name | Roll number | Category | Variant implemented |
 |---|---|---|---|
-| <your name> | <your roll no> | Cross-Site Scripting (XSS) | Stored XSS |
+| <Devanshi Singal> | <IIT2024029> | Cross-Site Scripting (XSS) | Stored XSS |
 
 ## Run
 ```
